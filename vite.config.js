@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "https://github.com/BlackiePearlJoobi/npm-experiment",
+  base: "https://blackiepearljoobi.github.io/npm-experiment/",
 });
